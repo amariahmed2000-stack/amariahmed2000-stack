@@ -38,7 +38,7 @@ I have a deep passion for continuous learning and I am always looking for the ne
 ---
 
 ## 📫 Connect with me:
-* **LinkedIn**: [Your LinkedIn Profile Link]
+* **LinkedIn**: [https://www.linkedin.com/in/ahmed-amari-34835535a/]
 * **GitHub**: [amariahmed2000-stack](https://github.com/amariahmed2000-stack)
 
 ---
