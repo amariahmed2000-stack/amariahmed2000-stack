@@ -16,15 +16,15 @@ A passionate **Full Stack Developer** with a 2023 degree in **Information Techno
 
 ## 🛠️ Featured Projects
 
-### 🏥 [ISTICHARA](https://github.com/amariahmed2000-stack/Project-Express)
+### 🏥 [ISTICHARA](https://github.com/amariahmed2000-stack/Istichara_Project.git)
 * A comprehensive consulting platform built with **Node.js** and **React**.
 * Features secure authentication and a professional dashboard for managing consultations.
 
-### 🎬 [Movie-App](https://github.com/amariahmed2000-stack/Movie-App-FrontEnd)
+### 🎬 [Movie-App](https://github.com/amariahmed2000-stack/Movie-App-FrontEnd.git)
 * Dynamic movie database integration using **React-Bootstrap**.
 * Implements complex state management and responsive UI components.
 
-### 📝 [Node Workshop](https://github.com/amariahmed2000-stack/node-workshop)
+### 📝 [Project-Node](https://github.com/amariahmed2000-stack/Project-Node.git)
 * A specialized backend project demonstrating mastery of **Express** middleware and server-side logic.
 
 ---
